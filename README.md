@@ -25,5 +25,7 @@
 
 ## Cristian "xWampa" Tapia Macías
 
+## Sergio García Vicente
+
 ## Ewe José Omusi Sáez
 
