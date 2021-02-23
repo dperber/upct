@@ -7,8 +7,6 @@
 
 ## Santos Pérez Fernández
 
-## Emilio Ramos Sorroche
-
 ## Pablo Gómez Oliva
 
 ## Alba Martinez Meroño
@@ -25,7 +23,11 @@
 
 ## Cristian "xWampa" Tapia Macías
 
+## Sergio García Vicente
+
 ## Ewe José Omusi Sáez
 
 ## Jose Luis Miralles Sánchez
+
+## Vasyl
 
