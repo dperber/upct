@@ -7,8 +7,6 @@
 
 ## Santos Pérez Fernández
 
-## Emilio Ramos Sorroche
-
 ## Pablo Gómez Oliva
 
 ## Alba Martinez Meroño
@@ -29,3 +27,4 @@
 
 ## Ewe José Omusi Sáez
 
+## Vasyl
