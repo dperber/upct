@@ -11,6 +11,8 @@
 
 ## Alba Martinez Meroño
 
+## José Casas Delgado
+
 ## Pedro Gimenez Martinez
 
 ## María Turpín Buendía
@@ -21,4 +23,5 @@
 
 ## Cristian "xWampa" Tapia Macías
 
-Ewe José Omusi Sáez
+## Ewe José Omusi Sáez
+
