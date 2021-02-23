@@ -11,4 +11,6 @@
 
 ## Alba Martinez Meroño
 
-* Cristian "xWampa" Tapia Macías
+## María Turpín Buendía
+
+## Cristian "xWampa" Tapia Macías
