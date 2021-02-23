@@ -7,9 +7,15 @@
 
 ## Santos Pérez Fernández
 
+## Emilio Ramos Sorroche
+
 ## Pablo Gómez Oliva
 
 ## Alba Martinez Meroño
+
+## José Casas Delgado
+
+## Pedro Gimenez Martinez
 
 ## María Turpín Buendía
 
@@ -20,3 +26,6 @@
 ## Cristian "xWampa" Tapia Macías
 
 ## Sergio García Vicente
+
+## Ewe José Omusi Sáez
+
