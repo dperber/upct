@@ -18,3 +18,5 @@
 ## Modificación Juan Vicente García Aldeguer
 
 ## Cristian "xWampa" Tapia Macías
+
+## Sergio García Vicente
