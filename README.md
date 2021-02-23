@@ -7,6 +7,6 @@
 
 ## Modificación realizada el 30 de octubre
 
-#Modificación Miguel Ángel García Rueda
+# Modificación Miguel Ángel García Rueda
 
 ## Modificacion realizada el 23 de Febrero
