@@ -1,10 +1,29 @@
 # Proyecto Universidad Politécnica de Cartagena.
 
 
-## Alumno Daniel Ros López 23/02/2021
+## Daniel Ros López
 
-## Modificación Miguel Ángel García Rueda
+## Miguel Ángel García Rueda
 
 ## Santos Pérez Fernández
 
 ## Emilio Ramos Sorroche
+
+## Pablo Gómez Oliva
+
+## Alba Martinez Meroño
+
+## José Casas Delgado
+
+## Pedro Gimenez Martinez
+
+## María Turpín Buendía
+
+## Santos Pérez Fernández
+
+## Modificación Juan Vicente García Aldeguer
+
+## Cristian "xWampa" Tapia Macías
+
+## Ewe José Omusi Sáez
+
