@@ -11,3 +11,4 @@
 
 ## Alba Martinez Meroño
 
+* Cristian "xWampa" Tapia Macías
