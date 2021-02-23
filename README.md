@@ -1,19 +1,16 @@
-# Proyecto creado para la asignatura Desarrollo de Proyectos Software de la Universidad Politécnica de Cartagena.
+# Proyecto Universidad Politécnica de Cartagena.
 
 
-Alumno Daniel Ros López 23/02/2021
+## Daniel Ros López
 
+## Miguel Ángel García Rueda
 
-## Modificación realizada el 30 de octubre
+## Santos Pérez Fernández
 
-# Modificación Miguel Ángel García Rueda
+## Pablo Gómez Oliva
 
-## Modificacion realizada el 23 de Febrero
-=======
-=======
+## Alba Martinez Meroño
 
+## María Turpín Buendía
 
-# Santos Pérez Fernández
-
-# María Turpín Buendía
-
+## Cristian "xWampa" Tapia Macías
