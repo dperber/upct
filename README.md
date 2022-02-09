@@ -37,3 +37,4 @@
 
 ## Emmanouela Vagianou
 
+## Gabriel Segado Moreno
